@@ -1,4 +1,4 @@
-👋 Hi there! I'm Kintur Shah]
+👋 Hi there! I'm Kintur Shah. <br>
 I am a passionate student pursuing my Master's degree in Computer Science 👨‍💻, with a deep interest in exploring and applying cutting-edge technologies. My focus is on continually expanding my knowledge and skills in software development, data science, and machine learning, while also learning how to harness the power of new technologies to solve real-world problems.
 
 💡 What I'm Interested In:
