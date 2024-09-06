@@ -17,7 +17,7 @@ I am a passionate student pursuing my Master's degree in Computer Science 👨�
 <b>Machine Learning & Data Science </b>: Expanding my understanding of advanced algorithms, model optimization, and predictive analytics.  <br> 
 <b> Data Visualization & Analysis </b>: Learning techniques for clear, impactful data visualizations to communicate insights effectively. <br> 
 <b> Microsoft Azure </b>: Exploring cloud computing solutions and services on the Azure platform for data science and deployment. <br> 
-< b>Advanced JavaScript for Web Development </b>: Enhancing my skills in modern JavaScript frameworks and libraries like React.js and Node.js to build dynamic, responsive web applications.  <br> 
+<b>Advanced JavaScript for Web Development </b>: Enhancing my skills in modern JavaScript frameworks and libraries like React.js and Node.js to build dynamic, responsive web applications.  <br> 
 
 🚀 Projects & Contributions: <br>
 I enjoy working on both solo and collaborative projects. I am constantly seeking opportunities to contribute to open-source projects and work on innovative solutions in areas like Data Science and Visulization AI, Web Development.  <br> 
