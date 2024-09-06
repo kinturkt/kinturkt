@@ -2,7 +2,7 @@
 I am a passionate student pursuing my Master's degree in Computer Science 👨‍💻, with a deep interest in exploring and applying cutting-edge technologies. My focus is on continually expanding my knowledge and skills in software development, data science, and machine learning, while also learning how to harness the power of new technologies to solve real-world problems.
 
 💡 What I'm Interested In: <br>
-Data Science: Turning raw data into meaningful insights through statistical analysis and data visualization. <br>
+<b>Data Science</b>: Turning raw data into meaningful insights through statistical analysis and data visualization. <br>
 Artificial Intelligence & Machine Learning: Exploring the world of AI and building models that provide intelligent solutions. <br>
 Software Development: Building robust and scalable applications using modern programming languages and frameworks. <br>
 
