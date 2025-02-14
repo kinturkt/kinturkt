@@ -23,5 +23,5 @@ I am a passionate student pursuing my Master's degree in Computer Science 👨�
 I enjoy working on both solo and collaborative projects. I am constantly seeking opportunities to contribute to open-source projects and work on innovative solutions in areas like Data Science and Visulization AI, Web Development.  <br> 
 
 📫 Get in Touch: <br>
-Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/kintur-shah/)) to collaborate on projects, share ideas, or discuss opportunities.  <br> 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kintur-shah/) to collaborate on projects, share ideas, or discuss opportunities.  <br> 
 Feel free to check out my projects and repositories below, and don't hesitate to reach out if you'd like to collaborate!
