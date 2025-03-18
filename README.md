@@ -8,7 +8,7 @@ I am a passionate student pursuing my Master's degree in Computer Science 👨�
 
 🔧 Technologies I Work With: <br>
 <b> Programming Languages </b>: Python, SQL, HTML, CSS, JavaScript, PHP, C <br>
-<b> Frameworks & Libraries </b>: Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorchm Streamlit, PyGWalker, Hibernate, Laravel, Flask, Django <br>
+<b> Frameworks & Libraries </b>: Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorch, PySpark, Streamlit, PyGWalker, Hibernate, Laravel, Flask, Django <br>
 <b> Visulization Tools </b>: MS Excel, Google Charts, Power BI, D3.js <br>
 <b> Cloud </b>: MS Azure <br>
 <b>Databases </b>: MySQL, SQLite, Azure SQL Database <br> 
