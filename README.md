@@ -6,6 +6,26 @@ I am a passionate student pursuing my Master's degree in Computer Science 👨�
 <b>Artificial Intelligence & Machine Learning </b>: Exploring the world of AI and building models that provide intelligent solutions. <br>
 <b> Software Development </b>: Building robust and scalable applications using modern programming languages and frameworks. <br>
 
+## 🛠 Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
 🔧 Technologies I Work With: <br>
 <b> Programming Languages </b>: Python, SQL, HTML, CSS, JavaScript, PHP, C <br>
 <b> Frameworks & Libraries </b>: Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorch, PySpark, Streamlit, PyGWalker, Hibernate, Laravel, Flask, Django <br>
@@ -25,19 +45,5 @@ I enjoy working on both solo and collaborative projects. I am constantly seeking
 📫 Get in Touch: <br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kintur-shah/) to collaborate on projects, share ideas, or discuss opportunities.  <br> 
 Feel free to check out my projects and repositories below, and don't hesitate to reach out if you'd like to collaborate!
-
-## 🛠 Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
 If you find my work useful, consider giving it a ⭐ to show support! ❤️
