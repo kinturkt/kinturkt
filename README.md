@@ -22,15 +22,19 @@ Databases : MySQL, SQLite, Azure SQL Database
 
 🌱 What I'm Learning Now: <br>
 <b>Machine Learning & Data Science </b>: Expanding my understanding of advanced algorithms, model optimization, and predictive analytics.  <br> 
-<b> Data Visualization & Analysis </b>: Learning techniques for clear, impactful data visualizations to communicate insights effectively. <br> 
 <b> Microsoft Azure </b>: Exploring cloud computing solutions and services on the Azure platform for data science and deployment. <br> 
 <b>Advanced JavaScript for Web Development </b>: Enhancing my skills in modern JavaScript frameworks and libraries like React.js and Node.js to build dynamic, responsive web applications.  <br> 
+**Next.js for Backend Development**: Exploring server-side rendering, API routes, and dynamic routing using the Next.js framework.  
+**Large Language Models (LLMs)**: Diving into transformer-based architectures and understanding how to fine-tune and deploy LLMs for real-world AI applications.  
 
 🚀 Projects & Contributions: <br>
 I enjoy working on both solo and collaborative projects. I am constantly seeking opportunities to contribute to open-source projects and work on innovative solutions in areas like Data Science and Visulization AI, Web Development.  <br> 
 
 📫 Get in Touch: <br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kintur-shah/) to collaborate on projects, share ideas, or discuss opportunities.  <br> 
+🤗 [Hugging Face Profile](https://huggingface.co/kinturkt)  
+✍️ [Medium Articles](https://medium.com/@kinturkt) 
+
 Feel free to check out my projects and repositories below, and don't hesitate to reach out if you'd like to collaborate!
 
 If you find my work useful, consider giving it a ⭐ to show support! ❤️
