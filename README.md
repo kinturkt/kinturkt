@@ -7,18 +7,11 @@ I am a passionate student pursuing my Master's degree in Computer Science 👨�
 <b> Software Development </b>: Building robust and scalable applications using modern programming languages and frameworks. <br>
 
 🔧 Technologies I Work With:
-Programming Languages : Python, SQL, HTML, CSS, JavaScript, Java, C, PHP
-Frameworks & Libraries : Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorch, PySpark, Streamlit, PyGWalker, Hibernate, Laravel, Flask, Django
-Visulization Tools : MS Excel, Google Charts, Power BI, D3.js
-Cloud : MS Azure
-Databases : MySQL, SQLite, Azure SQL Database
-
-🔧 Technologies I Work With: <br>
-<b> Programming Languages </b>: Python, SQL, HTML, CSS, JavaScript, PHP, C <br>
-<b> Frameworks & Libraries </b>: Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorch, PySpark, Streamlit, PyGWalker, Hibernate, Laravel, Flask, Django <br>
-<b> Visulization Tools </b>: MS Excel, Google Charts, Power BI, D3.js <br>
-<b> Cloud </b>: MS Azure <br>
-<b>Databases </b>: MySQL, SQLite, Azure SQL Database <br> 
+Programming Languages : Python, SQL, HTML, CSS, JavaScript, Java, C, PHP <br>
+Frameworks & Libraries : Pandas, NumPy, Matplotlib, NLTK, Sci-kit Learn, Seaborn, Tkinter, Tensorflow, Pytorch, PySpark, Streamlit, Gradio, Statsmodel, PyGWalker, Hibernate, Laravel, Flask, Django <br>
+Visulization Tools : MS Excel, Google Charts, Power BI, D3.js <br>
+Cloud : MS Azure, AWS <br>
+Databases : MySQL, SQLite, PostgreSQL, Azure SQL Database, DuckDB
 
 🌱 What I'm Learning Now: <br>
 <b>Machine Learning & Data Science </b>: Expanding my understanding of advanced algorithms, model optimization, and predictive analytics.  <br> 
