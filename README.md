@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinturkt&label=Profile%20views&color=0e75b6&style=flat" alt="kinturkt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinturkt" alt="kinturkt" /></a> </p>
-
 - 🔭 I’m currently working on [AI Financial Assistant Chatbot](https://github.com/kinturkt/Financial_Assistant_Chatbot_GCP)
 
 - 🌱 I’m currently learning **Advanced LangChain orchestration, MCP Servers, Cloud Deployment (AWS/GCP/Azure), and full-stack ML systems design**
@@ -17,9 +15,9 @@
 
 - 💬 Ask me about **Python, ML, AI, LLMs, AI Agents, LangChain, LangGraph, Streamlit, Data Analysis and Visualization, and MCP**
 
-- 📫 How to reach me **shahkintur@gmail.com**
+- 📫 How to reach me: **shahkintur@gmail.com**
 
-- ⚡ Fun fact **I turn messy data into meaningful insights**
+- ⚡ Fun fact: **I turn messy data into meaningful insights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
