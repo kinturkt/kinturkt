@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shahkintur](https://medium.com/@shahkintur)
 
-- 💬 Ask me about **Python, ML, AI, LLMs, AI Agents, LangChain, LangGraph, Streamlit, Data Analysis and Visualization, and MCP**
+- 💬 Ask me about **Python, ML, AI, LLMs, AI Agents, Data Science, LangChain, LangGraph, Streamlit, Data Analysis and Visualization, and MCP**
 
 - 📫 How to reach me: **shahkintur@gmail.com**
 
