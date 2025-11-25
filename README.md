@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinturkt&label=Profile%20views&color=0e75b6&style=flat" alt="kinturkt" /> </p>
 
-- 🔭 I’m currently working on [AIViz — an LLM-powered data visualization platform that turns natural language queries into charts, summaries, and insights using LangChain, Groq, Gemini, and agentic workflows.] (https://github.com/kinturkt/AIViz---LLM-Powered-Data-Visualisation-Insights-Platform)
+- 🔭 I’m currently working on [AIViz — an LLM powered data visualization platform](https://github.com/kinturkt/AIViz---LLM-Powered-Data-Visualisation-Insights-Platform)
 
 - 🌱 I’m currently learning **Advanced LangChain orchestration, MCP Servers, Cloud Deployment (AWS/GCP/Azure), and full-stack ML systems design**
 
