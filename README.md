@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kintur Shah</h1>
-<h3 align="center">A passionate AI/ML Engineer, Data Scientist, and Backend Developer with a focus on machine learning, LLMs, and cloud-native systems.</h3>
+<h3 align="center">A passionate AI/ML Engineer, Data Scientist, and Backend Developer with a focus on Machine Learning, Artificaial Intelligence, LLMs, and Cloud-native Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinturkt&label=Profile%20views&color=0e75b6&style=flat" alt="kinturkt" /> </p>
 
