@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on **LLM and Agentic AI based projects**
 
-- 👨‍💻 Explore all my AI/ML projects on my portfolio: [https://kinturkt-github-io.vercel.app/](https://kinturkt-github-io.vercel.app/)
+- 👨‍💻 Explore all my AI/ML projects on my portfolio: [https://kinturkt-github-io.vercel.app/](kintur-shah-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@shahkintur](https://medium.com/@shahkintur)
 
